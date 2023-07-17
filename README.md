@@ -11,3 +11,6 @@ This is a simple game implemented using JavaScript.
 
 # Usage
 A random integer is choosen from 1 to 20. The user has to guess the random number with the help of hints provided by the website. Once he gets the correct answer, he wins the game. There are 20 chances for the user to guess the number. For every wrong answer, the user looses a guess point which is presented in the score value. The least number of guesses that the user takes to correctly guess the number will be considered as the highscore. Upon winning the game, the user can play again by clicking the "again" button.
+
+# Acknowledgement
+This was part of an Udemy course https://www.udemy.com/share/101qYw3@G4ou7ZY06aoovya8z1MoEFUDtMQf15X6VMOGMIovVnNlMlgNPtE7I4mt_kVbKwF9fA==/
