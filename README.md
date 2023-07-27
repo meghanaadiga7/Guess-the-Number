@@ -4,9 +4,10 @@
 This is a simple game implemented using JavaScript.
 
 # Screenshots
-
+# 1
 <img width="1440" alt="Screenshot 2023-07-17 at 8 53 56 PM" src="https://github.com/meghanaadiga7/Guess-the-Number/assets/106051990/71dbebee-b63a-4c4e-b9c7-36bbb733429a">
 
+# 2
 <img width="1440" alt="Screenshot 2023-07-17 at 8 56 13 PM" src="https://github.com/meghanaadiga7/Guess-the-Number/assets/106051990/8dbf11d6-cb61-4f1c-94e3-a84bdf52c20b">
 
 # Usage
